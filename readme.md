@@ -10,6 +10,7 @@ Simply clone this to your machine, and open the index.html
 
 - Git (to clone the data to your machine)
 - A normal web browser (to access index.html)
+- Get source from GitHub: https://github.com/glitchwizard/VacationSuggestorProject
 
 ## Usage
 
